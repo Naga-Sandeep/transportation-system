@@ -1,0 +1,4 @@
+export const LOADING = 'LOADING';
+export const LOADED = 'LOADED';
+export const FETCHED_SERVICES = 'FETCHED_SERVICES';
+export const FETCH_SERVICES_FAILURE = 'FETCH_SERVICES_FAILURE';
